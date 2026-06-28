@@ -74,7 +74,7 @@ operator rule.
 ### Number lines
 
 Any straight run of **4 number cells** (horizontal, vertical, or either
-diagonal) whose digits are **all identical** *or* form **4 consecutive integers**
+diagonal) whose digits are **all identical** *or* form **3 consecutive integers**
 (ascending or descending) is removed. Blocks above fall down to fill the gaps.
 
 - Credit = (sum of the removed digits) + 100.
