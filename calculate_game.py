@@ -479,7 +479,7 @@ class Game:
         return False
 
     def remove_operator_pairs(self):
-
+        op_chars = ["+","=","/","*"]
         def is_op(orow, ocol):
             cell = self.grid[orow][ocol]
             return cell is not None and cell["char"] in op_chars
