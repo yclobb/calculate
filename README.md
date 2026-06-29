@@ -10,6 +10,15 @@ Built with [pygame](https://www.pygame.org/).
 - slight music shenanigans
 - sometimes blocks incorrectly recognise as a combo
 - sound bug when try to leave site
+
+## Description
+
+This game is a combination of tetris and equations, as mentioned in the motivation.
+To clear lines, you must form an equation, e.g. 4 + 6 = 10
+NOTE THAT YOU MUST HAVE AN = SIGN TO FORM AN EQUATION
+If you get certain symbols in a cluster, they can also be cleared for points.
+>>Thats about it<<
+For controls, scroll down.
 ## Requirements
 
 - Python 3.8+
